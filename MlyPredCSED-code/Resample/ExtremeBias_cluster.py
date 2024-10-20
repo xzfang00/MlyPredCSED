@@ -145,7 +145,7 @@ class FunctionalClustering:
 
 
 def ExtremeBias_cluster(sampling_strategy, X, y, k):
-    # 返回索引
+   
     ori_indices = []
 
     x_resampled, y_resampled = [], []
