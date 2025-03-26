@@ -1,4 +1,4 @@
-# MlyPredCSED: Based on Extreme Point Deviation Compensated Clustering combined with Cross-Scale Convolutional Neural Networks to predict multiple lysine sites
+# MlyPredCSED: Based on Extreme Point Deviation Compensated Clustering combined with Cross-Scale Convolutional Neural Networks to predict multiple lysine sites in human
 
 
 **Our Service Website:** [http://www.mlypredcsed.com/](http://www.mlypredcsed.com/)
